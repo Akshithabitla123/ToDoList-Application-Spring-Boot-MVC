@@ -2,7 +2,7 @@ A simple Todo list application built using Spring Boot Web. This project focuses
 Tech stack used: Spring Boot MVC, Spring JDBC, Thymeleaf, MySQL, Maven.
 
 Screenshots:
-![Todo List Home](src/main/resources/Images/Screenshot 2025-12-24 175138.png)
-![Todo List Tasks](src/main/resources/Images/Screenshot 2025-12-24 175320.png)
+![Todo List Home](src/main/resources/Images/Screenshot 2025-12-24%20175138.png)
+![Todo List Tasks](src/main/resources/Images/Screenshot 2025-12-24%20175320.png)
 
 
